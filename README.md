@@ -1,4 +1,3 @@
-# apply-karo
 # Welcome to Apply Karo
 
 Tired of searching for jobs, from 3rd party websites, get contacted by the recruiter but no showing up.
